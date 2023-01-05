@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kirmct
-- 👀 I’m interested in become e mobile developer
-- 🌱 I’m currently learning java and kotlin
+- 👀 I’m interested in become e software developer
+- 🌱 I’m currently learning javasript
 - 📫 How to reach me <em> <strong> www.linkedin.com/in/kirmct </strong> </em>
 
 
