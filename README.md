@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kirmct
 - 👀 I’m interested in become e software developer
-- 🌱 I’m currently learning React using TypeScript
+- 🌱 I’m currently learning Java and Spring Boot
 - 📫 How to reach me <em> <strong> www.linkedin.com/in/kirmct </strong> </em>
 
 
